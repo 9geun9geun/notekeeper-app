@@ -1,4 +1,4 @@
-Note Keeper App using React
+Note Taking App using React
 
 How to use:
 Can add notes by clicking the add button
